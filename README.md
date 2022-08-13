@@ -1,6 +1,6 @@
 ### 你好，我是 mowangjuanzi
 
-* 🔭 我是一名非官方 [doc-zh](https://github.com/php/doc-zh) 贡献者
+* 🔭 我是一名 [doc-zh](https://github.com/php/doc-zh) 贡献者
 * 🌱 我现在正在学习 [Unix环境高级编程](https://book.douban.com/subject/25900403/)，[Unix 网络编程 卷1](https://book.douban.com/subject/1500149/)
 * 📫 可以通过 [Email](mailto:baoguoxiao0538@hotmail.com) 跟我联系
 
